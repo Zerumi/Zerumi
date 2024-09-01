@@ -5,7 +5,7 @@
 
 ### Hi everyone! 👋
 
-My name is **Kirill** *(full name: Afanasyev Kirill Aleksandrovich, also known as Zerumi)* and I'm novice computer software engineer and 3rd year banchelor student at ITMO University! I aimed for fast-growing, learning new things & becoming better every day! I take inspiration from our industry and my friends, who also interested in software engineering.
+My name is **Kirill** *(full name: Afanasyev Kirill Aleksandrovich, also known as Zerumi)* and I'm novice computer software engineer and 3rd year bachelor student at ITMO University! I aimed for fast-growing, learning new things & becoming better every day! I take inspiration from our industry and my friends, who also interested in software engineering.
 
 [<img src="https://github.com/user-attachments/assets/d08bcd18-84d2-45a1-a233-26541e14619b" width="25"/>](
 https://github.com/user-attachments/assets/d08bcd18-84d2-45a1-a233-26541e14619b)
@@ -24,6 +24,7 @@ Fun fact: I had written a [stack-machine emulator](https://github.com/Zerumi/csa
 - Telegram: https://t.me/zerumi
 - VK: https://vk.com/zerumi
 - LinkedIn: https://www.linkedin.com/in/kirill-afanasyev-34006a267/
+- Discord: _zerumi\_
 
 <!--
 **Zerumi/Zerumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
