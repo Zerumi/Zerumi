@@ -11,6 +11,8 @@ My name is **Kirill** *(full name: Afanasyev Kirill Aleksandrovich, also known a
 https://github.com/user-attachments/assets/d08bcd18-84d2-45a1-a233-26541e14619b)
 Currently I'm learning **Kotlin** for Android and Multiplatform projects. And Kotlin is my favourite language. <3
 
+#### My CV available [here](https://drive.google.com/file/d/1gdoH0QHAgOn0RfGrd6XnXTOcKF7vLwtd/view?usp=sharing)
+
 #### You can view my brilliant projects below, in 'Pinned' tab. It often written in C#, Kotlin and Java.
 
 Or more good & recent projects I've done during my learning in university:
