@@ -9,7 +9,7 @@ My name is **Kirill** *(full name: Afanasyev Kirill Aleksandrovich, also known a
 
 [<img src="https://github.com/user-attachments/assets/d08bcd18-84d2-45a1-a233-26541e14619b" width="25"/>](
 https://github.com/user-attachments/assets/d08bcd18-84d2-45a1-a233-26541e14619b)
-Currently I'm learning **Kotlin** for Android and Multiplatform projects. And Kotlin is my favourite language. <3
+Currently I'm learning **Kotlin** for back-end and Multiplatform projects. And Kotlin is my favourite language. <3
 
 #### My CV available [here](https://drive.google.com/file/d/1gdoH0QHAgOn0RfGrd6XnXTOcKF7vLwtd/view?usp=sharing)
 
