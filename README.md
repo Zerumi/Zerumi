@@ -5,15 +5,15 @@
 
 ### Hi everyone! 👋
 
-My name is **Kirill** *(full name: Afanasyev Kirill Aleksandrovich, also known as Zerumi)* and I'm novice computer software engineer and 3rd year bachelor student at ITMO University! I aimed for fast-growing, learning new things & becoming better every day! I take inspiration from our industry and my friends, who also interested in software engineering.
+My name is **Kirill** *(full name: Afanasyev Kirill Aleksandrovich, also known as Zerumi)* and I'm novice computer software engineer and 3rd year bachelor student at ITMO University! I aimed for fast-growing, learning new things & becoming better every day! I take inspiration from our industry and my friends, who are also interested in software engineering.
 
 [<img src="https://github.com/user-attachments/assets/d08bcd18-84d2-45a1-a233-26541e14619b" width="25"/>](
 https://github.com/user-attachments/assets/d08bcd18-84d2-45a1-a233-26541e14619b)
 Currently I'm learning **Kotlin** for back-end and Multiplatform projects. And Kotlin is my favourite language. <3
 
-#### My CV available [here](https://drive.google.com/file/d/1gdoH0QHAgOn0RfGrd6XnXTOcKF7vLwtd/view?usp=sharing)
+#### My CV available [here](https://drive.google.com/file/d/1pM0pKu6ew_M00Udns4zGgh-cKauG6L6r/view?usp=sharing)
 
-#### You can view my brilliant projects below, in 'Pinned' tab. It often written in C#, Kotlin and Java.
+#### You can view my brilliant projects below, in 'Pinned' tab. They're often written in C#, Kotlin and Java.
 
 Or more good & recent projects I've done during my learning in university:
 - [Declarative .bmp image transformer](https://github.com/Zerumi-ITMO-Related/programming-languages/tree/master/c/ch13_10/solution/src). Support file i/o & .bmp load/save + blurring and rotating image, in declarative way. (written in C)
